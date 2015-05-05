@@ -1,0 +1,27 @@
+﻿.intro {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.intro a {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.main {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.main a {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}

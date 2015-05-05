@@ -1,0 +1,96 @@
+﻿.intro {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.intro a {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.meetings {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.meetings a {
+    color: lightsteelblue;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.meetings p {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.uniform {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.uniform p {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+.uniform a {
+    color: lightsteelblue;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.CourtOfHonor {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.CourtOfHonor a {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.OurMission {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.OurMission a {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
+
+.BecomeMember {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.BecomeMember a {
+    color: white;
+    margin-right:15px;
+    margin-left:15px;
+    font-size:20px;
+}
