@@ -11,3 +11,14 @@
     margin-left:15px;
     font-size:20px;
 }
+
+.patrols {
+    text-aling: center;
+}
+
+.patrols a {
+    color: gray;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+}
