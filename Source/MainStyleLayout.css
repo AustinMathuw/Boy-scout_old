@@ -1,0 +1,99 @@
+﻿ body {
+  left: 0;
+  margin: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.wrapper {
+  background-color: black; 
+}
+
+.nav {
+  position: fixed;
+  background-color: black;
+  width:100%;
+  height: auto;
+  cursor: default;
+}
+
+.nav div{
+    display: inline-block;
+    padding: 25px 25px 25px 25px;
+}
+
+.nav div a {
+    cursor: pointer;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navBack {
+  background-color: black;
+  width:100%;
+  height: auto;
+  cursor: default;
+}
+
+.navBack div{
+    display: inline-block;
+    padding: 25px 25px 25px 25px;
+    
+}
+
+.navBack div a {
+    cursor: pointer;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+img.banner {
+    display: block;
+    max-width:100%;
+    max-height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+.mainBody {
+    background-color: #808080;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.footer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;  
+    padding-top: 5px;
+
+}
+
+.footer a{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.mapLink {
+    text-decoration-style: solid;
+    font-size: 12px;
+}
+
+.mainBody {
+    height:auto;
+}
+
+.wrapper {
+    height:auto;
+}
