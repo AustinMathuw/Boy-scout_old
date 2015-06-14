@@ -1,0 +1,104 @@
+{
+	"tTin": {
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
+        "clusterSize": 32,
+        "numClusters": 26,
+        "minHeight": 0,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tSilverLead": {
+        "template": "uniform",
+        "block": [
+			{"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 6},
+			{"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 3}
+		],
+        "clusterSize": 32,
+        "numClusters": 26,
+        "minHeight": 0,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tIron": {
+        "template": "uniform",
+        "block": "minecraft:iron_ore",
+        "clusterSize": 32,
+        "numClusters": 26,
+        "minHeight": 0,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tNickel": {
+        "template": "uniform",
+        "block": [
+			{"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 16},
+			{"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 1}
+		],
+        "clusterSize": 32,
+        "numClusters": 26,
+        "minHeight": 0,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tCopper": {
+        "template": "uniform",
+        "block": {"name": "ThermalFoundation:Ore", "metadata": 0},
+        "clusterSize": 32,
+        "numClusters": 26,
+        "minHeight": 0,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"tAluminum": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 32,
+        "numClusters": 26,
+        "minHeight": 0,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
