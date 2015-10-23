@@ -1,4 +1,4 @@
-﻿var main = function () {
+var main = function () {
     /* Push the body and the nav over by 400px over */
     $('.menu_text').click(function () {
         $('.menu').animate({
