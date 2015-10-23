@@ -3,7 +3,7 @@
     $('.menu_text').click(function () {
         $('.menu').animate({
             left: "0px"
-        }, 1);
+        }, 4);
 
         $('body').animate({
             left: "600px"
@@ -18,7 +18,7 @@
 
         $('body').animate({
             left: "0px"
-        }, 1);
+        }, 4);
     });
 };
 
