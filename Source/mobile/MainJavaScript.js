@@ -3,22 +3,22 @@
     $('.menu_text').click(function () {
         $('.menu').animate({
             left: "0px"
-        }, 200);
+        }, 20000);
 
         $('body').animate({
             left: "600px"
-        }, 200);
+        }, 20000);
     });
 
     /* Then push them back */
     $('.menu-close').click(function () {
         $('.menu').animate({
             left: "-600px"
-        }, 200);
+        }, 20000);
 
         $('body').animate({
             left: "0px"
-        }, 200);
+        }, 20000);
     });
 };
 
