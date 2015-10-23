@@ -3,22 +3,22 @@
     $('.menu_text').click(function () {
         $('.menu').animate({
             left: "0px"
-        }, .0001);
+        }, 1);
 
         $('body').animate({
             left: "600px"
-        }, .1);
+        }, 4);
     });
 
     /* Then push them back */
     $('.menu-close').click(function () {
         $('.menu').animate({
             left: "-600px"
-        }, .1);
+        }, 4);
 
         $('body').animate({
             left: "0px"
-        }, .0001);
+        }, 1);
     });
 };
 
