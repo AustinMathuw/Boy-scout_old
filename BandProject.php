@@ -1,24 +1,9 @@
-<?php
+<html>
+<body>
 
-	if(empty($_POST['submit']))
-	{
-		echo "Form is not submitted!";
-		exit;
-	}
-	if(empty($_POST["fullname"]) ||
-		empty($_POST["email"]))
-	{
-		echo "Please fill the form";
-		exit;
-	}
+Welcome <?php echo $_POST["name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?>
 
-	$name = $_POST["fullname"];
-	$email = $_POST["email"];
-
-	mail( 'pmj@user10.com' , 'New form submission' ,
-"New form submission: Name: $name, Email:$email"  );
-
-header('Location: thank-you.html');
-
-?>
+</body>
+</html>
 
