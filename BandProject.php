@@ -1,23 +1,4 @@
-<html>
-<head>
-
-</head>
-<body>
-    <form method='post' action='contact-form-proc.php' name='contactform' id='contactform'>
-        <p>
-            <label for='fullname'>Your Name:</label>
-            <br />
-            <input type='text' name='fullname' />
-        </p>
-        <p>
-            <label for='email'>Email Address:</label>
-            <br />
-            <input type='text' name='email' />
-        </p>
-        <input type='submit' name='submit' value='Submit Form' />
-    </form>
-
-    <?php
+<?php
 
 	if(empty($_POST['submit']))
 	{
@@ -39,6 +20,5 @@
 
 header('Location: thank-you.html');
 
-    ?>
-</body>
-</html>
+?>
+
